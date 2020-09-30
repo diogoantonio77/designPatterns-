@@ -1,7 +1,7 @@
 
 package blackdesert;
 
-public class Domadora {
+public class Domadora implements Classe{
     public void classe(){
         System.out.println("Classe seleciona: Domadora");
     }

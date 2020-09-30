@@ -1,7 +1,7 @@
 
 package blackdesert;
 
-public class Valkiria {
+public class Valkiria implements Classe{
     public void classe(){
         System.out.println("Classe seleciona: Valkiria");
     }

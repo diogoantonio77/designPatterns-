@@ -1,7 +1,7 @@
 
 package blackdesert;
 
-public class Mago {
+public class Mago implements Classe{
     public void classe(){
         System.out.println("Classe seleciona: Mago");
     }

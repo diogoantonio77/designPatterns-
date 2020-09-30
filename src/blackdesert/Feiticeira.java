@@ -1,7 +1,7 @@
 
 package blackdesert;
 
-public class Feiticeira {
+public class Feiticeira implements Classe{
     public void classe(){
         System.out.println("Classe seleciona: Feiticeira");
     }
